@@ -1,3 +1,6 @@
+Note: you will need to the SmartContract address at some point in this process: 0xb102af07AED144A77CCdbFAcf4edB073E47c45c4
+Note: you will also need the wallet address that created/owner of the smart contract: 0x97aD707974538E88a63eA6E3A2d048C9204efB47   this is my metamask wallet
+
 To recreate your workspace in Remix and connect to an existing smart contract so you can interact with it, you'll need to follow these steps:
 
 1. **Recreate the Smart Contract File**:
